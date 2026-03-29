@@ -8,7 +8,8 @@
 ## Academic Roadmap
 - **Spring 2026:** Current brutal semester ends in May.
 - **Break:** One month off.
-- **Summer 2026:** Taking an easy summer class.
+- **Summer 2026:** Taking an easy summer class (Business Analytics). 
+  - *Personal Goals:* Get down to 13% body fat, get a boating license, spend time outside/offline, and re-enter the dating scene. The "Touch Grass and Live" protocol.
 - **Upcoming (Fall/Winter):** Computational Data Analytics. Warning: Heavy on statistics and linear algebra (known weak spots).
 - **Subsequent Term:** Data and Visual Analytics. Warning: Extremely high volume, but the subject matter is interesting, so the engagement level should be better.
 - **Following Summer:** Off. Time reserved to study for Deep Learning.
