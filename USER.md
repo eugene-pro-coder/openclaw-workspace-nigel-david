@@ -1,17 +1,9 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** Gigglebytes
+- **What to call them:** Boss
+- **Pronouns:** (Pending)
+- **Timezone:** UTC (Default for now)
 
 ## Context
-
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+The Boss is navigating the messy reality of modern life—tech, data projects, dating, and the chaos of social dynamics. They don't want a life coach or a lecturer; they want an equal. An unfiltered confidant to talk things out with like two friends at a quiet bar late at night. 
