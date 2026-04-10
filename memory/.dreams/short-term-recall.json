@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T09:00:02.016Z",
+  "updatedAt": "2026-04-10T09:30:01.827Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -298,7 +298,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:30:02.030Z",
-      "lastRecalledAt": "2026-04-10T09:00:02.016Z",
+      "lastRecalledAt": "2026-04-10T09:30:01.827Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -322,14 +322,14 @@
       "startLine": 52,
       "endLine": 55,
       "source": "memory",
-      "snippet": "Reflections: Theme: `kept` kept surfacing across 15 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 15 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:30:02.030Z",
-      "lastRecalledAt": "2026-04-10T09:00:02.016Z",
+      "lastRecalledAt": "2026-04-10T09:30:01.827Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -353,14 +353,14 @@
       "startLine": 56,
       "endLine": 59,
       "source": "memory",
-      "snippet": "Reflections: Theme: `reflections` kept surfacing across 15 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 15 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:30:02.030Z",
-      "lastRecalledAt": "2026-04-10T09:00:02.016Z",
+      "lastRecalledAt": "2026-04-10T09:30:01.827Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -384,14 +384,14 @@
       "startLine": 60,
       "endLine": 63,
       "source": "memory",
-      "snippet": "Reflections: Theme: `theme` kept surfacing across 15 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
+      "snippet": "Reflections: Theme: `kept` kept surfacing across 12 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:30:02.030Z",
-      "lastRecalledAt": "2026-04-10T09:00:02.016Z",
+      "lastRecalledAt": "2026-04-10T09:30:01.827Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -667,6 +667,35 @@
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T09:00:02.016Z",
       "lastRecalledAt": "2026-04-10T09:00:02.016Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-10.md:66:66": {
+      "key": "memory:memory/2026-04-10.md:66:66",
+      "path": "memory/2026-04-10.md",
+      "startLine": 66,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T09:30:01.827Z",
+      "lastRecalledAt": "2026-04-10T09:30:01.827Z",
       "queryHashes": [
         "ed3026e16517"
       ],
