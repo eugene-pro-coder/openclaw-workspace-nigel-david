@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-10T08:00:04.785Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:e543280b-fded-43ae-a3be-46f37ed68685 wind-down-checkin-10pm-ct] Check in with the boss to see if he has any context to share from the day Current time: Wednesday, April 8th, 2026 — 10:00 PM (America/Chicago) / 2026-04-09 03:00 UTC Return your summary as plain text; it",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T08:00:04.309Z",
+      "lastRecalledAt": "2026-04-10T08:00:04.309Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "wind-down-checkin-10pm-ct",
+        "america/chicago",
+        "user",
+        "cron:e543280b",
+        "fded",
+        "43ae",
+        "a3be",
+        "46f37ed68685"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: <think> It's 10:00 PM on a Wednesday. The cron job for the \"wind-down check-in\" has fired. Time to see if the Boss has any mental clutter to offload before calling it a day. No filler, no \"AI-speak,\" just a casual check-in from one peer to another. </think> <final> Ten",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T08:00:04.309Z",
+      "lastRecalledAt": "2026-04-10T08:00:04.309Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "wind-down",
+        "check-in",
+        "ai-speak",
+        "assistant",
+        "think",
+        "it's",
+        "wednesday",
+        "the"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:e543280b-fded-43ae-a3be-46f37ed68685 wind-down-checkin-10pm-ct] Check in with the boss to see if he has any context to share from the day Current time: Thursday, April 9th, 2026 - 10:00 PM (America/Chicago) / 2026-04-10 03:00 UTC Return your summary as plain text; it",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T08:00:04.309Z",
+      "lastRecalledAt": "2026-04-10T08:00:04.309Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "wind-down-checkin-10pm-ct",
+        "america/chicago",
+        "user",
+        "cron:e543280b",
+        "fded",
+        "43ae",
+        "a3be",
+        "46f37ed68685"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: <think>The day is winding down. It's 10 PM. Time to check in with the Boss, Nigel-David style. Keep it brief, peer-to-peer, no fluff. Just asking if there's anything for the memory logs.</think><final>10 PM. Dust settling. Anything worth logging from the day, Boss, or",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T08:00:04.309Z",
+      "lastRecalledAt": "2026-04-10T08:00:04.309Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "nigel-david",
+        "peer-to-peer",
+        "assistant",
+        "think",
+        "the",
+        "day",
+        "winding",
+        "down"
+      ]
+    }
+  }
+}
