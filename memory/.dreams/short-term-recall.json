@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T08:00:04.785Z",
+  "updatedAt": "2026-04-10T08:30:02.030Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -128,6 +128,529 @@
         "day",
         "winding",
         "down"
+      ]
+    },
+    "memory:memory/2026-04-10.md:28:31": {
+      "key": "memory:memory/2026-04-10.md:28:31",
+      "path": "memory/2026-04-10.md",
+      "startLine": 28,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `43ae` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "43ae",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:32:35": {
+      "key": "memory:memory/2026-04-10.md:32:35",
+      "path": "memory/2026-04-10.md",
+      "startLine": 32,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `46f37ed68685` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "46f37ed68685",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:36:39": {
+      "key": "memory:memory/2026-04-10.md:36:39",
+      "path": "memory/2026-04-10.md",
+      "startLine": 36,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `a3be` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "a3be",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:40:43": {
+      "key": "memory:memory/2026-04-10.md:40:43",
+      "path": "memory/2026-04-10.md",
+      "startLine": 40,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `america/chicago` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "america/chicago",
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "america",
+        "chicago",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:44:47": {
+      "key": "memory:memory/2026-04-10.md:44:47",
+      "path": "memory/2026-04-10.md",
+      "startLine": 44,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:2-2; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:48:51": {
+      "key": "memory:memory/2026-04-10.md:48:51",
+      "path": "memory/2026-04-10.md",
+      "startLine": 48,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `43ae` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "43ae",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:52:55": {
+      "key": "memory:memory/2026-04-10.md:52:55",
+      "path": "memory/2026-04-10.md",
+      "startLine": 52,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `46f37ed68685` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "46f37ed68685",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:56:59": {
+      "key": "memory:memory/2026-04-10.md:56:59",
+      "path": "memory/2026-04-10.md",
+      "startLine": 56,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `a3be` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "a3be",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:60:63": {
+      "key": "memory:memory/2026-04-10.md:60:63",
+      "path": "memory/2026-04-10.md",
+      "startLine": 60,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `america/chicago` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "america/chicago",
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "america",
+        "chicago",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:64:67": {
+      "key": "memory:memory/2026-04-10.md:64:67",
+      "path": "memory/2026-04-10.md",
+      "startLine": 64,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:2-2; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:70:70": {
+      "key": "memory:memory/2026-04-10.md:70:70",
+      "path": "memory/2026-04-10.md",
+      "startLine": 70,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-10.md:68:71": {
+      "key": "memory:memory/2026-04-10.md:68:71",
+      "path": "memory/2026-04-10.md",
+      "startLine": 68,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `cron:e543280b` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "cron:e543280b",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:72:75": {
+      "key": "memory:memory/2026-04-10.md:72:75",
+      "path": "memory/2026-04-10.md",
+      "startLine": 72,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `fded` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "fded",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:76:79": {
+      "key": "memory:memory/2026-04-10.md:76:79",
+      "path": "memory/2026-04-10.md",
+      "startLine": 76,
+      "endLine": 79,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `the` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:2-2; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "reflections",
+        "theme",
+        "the",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:80:83": {
+      "key": "memory:memory/2026-04-10.md:80:83",
+      "path": "memory/2026-04-10.md",
+      "startLine": 80,
+      "endLine": 83,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `think` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-09.txt:2-2; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "reflections",
+        "theme",
+        "think",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:84:87": {
+      "key": "memory:memory/2026-04-10.md:84:87",
+      "path": "memory/2026-04-10.md",
+      "startLine": 84,
+      "endLine": 87,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 2 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-09.txt:1-1; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "1-1",
+        "reflections",
+        "theme",
+        "user",
+        "kept",
+        "surfacing",
+        "across"
+      ]
+    },
+    "memory:memory/2026-04-10.md:90:90": {
+      "key": "memory:memory/2026-04-10.md:90:90",
+      "path": "memory/2026-04-10.md",
+      "startLine": 90,
+      "endLine": 90,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:30:02.030Z",
+      "lastRecalledAt": "2026-04-10T08:30:02.030Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
       ]
     }
   }
