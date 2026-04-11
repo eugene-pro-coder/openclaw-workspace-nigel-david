@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T10:00:01.790Z",
+  "updatedAt": "2026-04-11T08:00:02.211Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -298,12 +298,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:30:02.030Z",
-      "lastRecalledAt": "2026-04-10T10:00:01.790Z",
+      "lastRecalledAt": "2026-04-11T08:00:02.115Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-11"
       ],
       "conceptTags": [
         "1.00",
@@ -329,12 +330,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:30:02.030Z",
-      "lastRecalledAt": "2026-04-10T10:00:01.790Z",
+      "lastRecalledAt": "2026-04-11T08:00:02.115Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-11"
       ],
       "conceptTags": [
         "1.00",
@@ -360,12 +362,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:30:02.030Z",
-      "lastRecalledAt": "2026-04-10T10:00:01.790Z",
+      "lastRecalledAt": "2026-04-11T08:00:02.115Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-11"
       ],
       "conceptTags": [
         "1.00",
@@ -391,12 +394,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:30:02.030Z",
-      "lastRecalledAt": "2026-04-10T10:00:01.790Z",
+      "lastRecalledAt": "2026-04-11T08:00:02.115Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-11"
       ],
       "conceptTags": [
         "1.00",
@@ -695,12 +699,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T09:30:01.827Z",
-      "lastRecalledAt": "2026-04-10T10:00:01.790Z",
+      "lastRecalledAt": "2026-04-11T08:00:02.115Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-11"
       ],
       "conceptTags": [
         "possible",
@@ -709,6 +714,70 @@
         "strong",
         "candidate",
         "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:e543280b-fded-43ae-a3be-46f37ed68685 wind-down-checkin-10pm-ct] Check in with the boss to see if he has any context to share from the day Current time: Friday, April 10th, 2026 - 10:00 PM (America/Chicago) / 2026-04-11 03:00 UTC Return your summary as plain text; it w",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T08:00:02.115Z",
+      "lastRecalledAt": "2026-04-11T08:00:02.115Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "wind-down-checkin-10pm-ct",
+        "america/chicago",
+        "user",
+        "cron:e543280b",
+        "fded",
+        "43ae",
+        "a3be",
+        "46f37ed68685"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: <think>The boss is winding down. It's 10 PM. Keep it low-pressure, direct, and conversational—late-night bar talk, not a productivity sprint.</think> <final>Boss, 10:00 PM. The day’s winding down—anything on your mind or in the logs that’s worth capturing, or are we ca",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T08:00:02.115Z",
+      "lastRecalledAt": "2026-04-11T08:00:02.115Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "low-pressure",
+        "late-night",
+        "assistant",
+        "think",
+        "the",
+        "boss",
+        "winding",
+        "down"
       ]
     }
   }
