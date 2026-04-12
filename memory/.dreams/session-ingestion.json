@@ -57,7 +57,7 @@
       "lineCount": 24,
       "lastContentLine": 24
     },
-    "nigel-david:sessions/71485ae9-b6a8-44c7-8496-ceaef37bfc24.jsonl": {
+    "nigel-david:sessions/71485ae9-b6a8-44c7-8496-ceaef37bfc24.jsonl.deleted.2026-04-12T03-05-00.785Z": {
       "mtimeMs": 1775876431370,
       "size": 4818,
       "contentHash": "a82087b575187bf281237c067553d68649a073edf70aadc28a6c95f1548c5e9b",
@@ -70,6 +70,13 @@
       "contentHash": "fc8f3ec8c3d7f5afcf23af4046676b4b076369734a985ab0d1ea9a5ce6319daf",
       "lineCount": 23,
       "lastContentLine": 23
+    },
+    "nigel-david:sessions/90caedf2-ed25-4f6e-9283-3eeb1eebe30d.jsonl": {
+      "mtimeMs": 1775962920167,
+      "size": 13253,
+      "contentHash": "29552e2f87c667c241191eb67bdc739e3cc1ae98b0362d26838421f8655150de",
+      "lineCount": 2,
+      "lastContentLine": 2
     },
     "nigel-david:sessions/9add71bb-3916-42c2-83ef-e4b4a812460e.jsonl.reset.2026-03-29T08-46-34.641Z": {
       "mtimeMs": 1774773157739,
@@ -141,20 +148,6 @@
       "lineCount": 15,
       "lastContentLine": 15
     },
-    "nigel-david:sessions/e8998226-739c-4ecb-b117-4316319377eb.jsonl.deleted.2026-04-10T03-04-49.311Z": {
-      "mtimeMs": 1775703609374,
-      "size": 3527,
-      "contentHash": "4654c3d9283fbe2895e3a7284cf9cb9fd10f60ae492377f6cbcbd6485a02a3a5",
-      "lineCount": 2,
-      "lastContentLine": 2
-    },
-    "nigel-david:sessions/eb1cddec-d6a4-4baf-b3c5-a23c341f9fd7.jsonl.deleted.2026-04-11T03-02-32.322Z": {
-      "mtimeMs": 1775790048016,
-      "size": 4838,
-      "contentHash": "6190e7d2f20a7fcd4a255871823b6421b1aedf6273ad0a8d39eb5668d905e270",
-      "lineCount": 2,
-      "lastContentLine": 2
-    },
     "nigel-david:sessions/ee3a6441-77c8-46b8-af6b-ca3d45671806.jsonl.reset.2026-04-02T22-28-47.059Z": {
       "mtimeMs": 1775106601321,
       "size": 49728,
@@ -182,6 +175,10 @@
     "nigel-david:71485ae9-b6a8-44c7-8496-ceaef37bfc24": [
       "1c91a7e5f64d6180a8ba930a6800be37138e36e1",
       "50c71200beedc245c59e6fd5ec1291dd34749840"
+    ],
+    "nigel-david:90caedf2-ed25-4f6e-9283-3eeb1eebe30d": [
+      "32fcdb5a345fc43bb6bd0decf22fe50ede5d0e2d",
+      "40c1ec735955d8a34741cd5fb5963151d1e5a45b"
     ]
   }
 }
