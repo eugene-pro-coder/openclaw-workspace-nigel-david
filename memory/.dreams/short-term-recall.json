@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-12T09:30:02.241Z",
+  "updatedAt": "2026-04-12T10:00:02.747Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -2581,14 +2581,14 @@
       "startLine": 188,
       "endLine": 191,
       "source": "memory",
-      "snippet": "Reflections: Theme: `28-31` kept surfacing across 41 memories.; confidence: 0.94; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 83 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T08:30:02.606Z",
-      "lastRecalledAt": "2026-04-12T09:00:02.499Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -2596,14 +2596,14 @@
         "2026-04-12"
       ],
       "conceptTags": [
-        "28-31",
-        "0.94",
+        "1.00",
         "memory/2026-04-10.md",
-        "48-51",
-        "52-55",
-        "56-59",
+        "28-31",
+        "32-35",
+        "36-39",
         "reflections",
-        "theme"
+        "theme",
+        "kept"
       ]
     },
     "memory:memory/2026-04-12.md:192:195": {
@@ -2612,14 +2612,14 @@
       "startLine": 192,
       "endLine": 195,
       "source": "memory",
-      "snippet": "Reflections: Theme: `32-35` kept surfacing across 41 memories.; confidence: 0.94; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 83 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T08:30:02.606Z",
-      "lastRecalledAt": "2026-04-12T09:00:02.499Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -2627,14 +2627,14 @@
         "2026-04-12"
       ],
       "conceptTags": [
-        "32-35",
-        "0.94",
+        "1.00",
         "memory/2026-04-10.md",
-        "48-51",
-        "52-55",
-        "56-59",
+        "28-31",
+        "32-35",
+        "36-39",
         "reflections",
-        "theme"
+        "theme",
+        "kept"
       ]
     },
     "memory:memory/2026-04-12.md:196:199": {
@@ -2643,14 +2643,14 @@
       "startLine": 196,
       "endLine": 199,
       "source": "memory",
-      "snippet": "Reflections: Theme: `36-39` kept surfacing across 41 memories.; confidence: 0.94; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "snippet": "Reflections: Theme: `memory/2026-04-10.md` kept surfacing across 75 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T08:30:02.606Z",
-      "lastRecalledAt": "2026-04-12T09:00:02.499Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -2658,14 +2658,14 @@
         "2026-04-12"
       ],
       "conceptTags": [
-        "36-39",
-        "0.94",
         "memory/2026-04-10.md",
+        "1.00",
         "48-51",
         "52-55",
         "56-59",
         "reflections",
-        "theme"
+        "theme",
+        "kept"
       ]
     },
     "memory:memory/2026-04-12.md:202:202": {
@@ -2980,14 +2980,14 @@
       "startLine": 198,
       "endLine": 201,
       "source": "memory",
-      "snippet": "Reflections: Theme: `reflections` kept surfacing across 75 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 83 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T09:30:02.241Z",
-      "lastRecalledAt": "2026-04-12T09:30:02.241Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -3011,14 +3011,14 @@
       "startLine": 202,
       "endLine": 205,
       "source": "memory",
-      "snippet": "Reflections: Theme: `theme` kept surfacing across 75 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 83 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T09:30:02.241Z",
-      "lastRecalledAt": "2026-04-12T09:30:02.241Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -3042,14 +3042,14 @@
       "startLine": 206,
       "endLine": 209,
       "source": "memory",
-      "snippet": "Reflections: Theme: `memory/2026-04-10.md` kept surfacing across 67 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "snippet": "Reflections: Theme: `memory/2026-04-10.md` kept surfacing across 75 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T09:30:02.241Z",
-      "lastRecalledAt": "2026-04-12T09:30:02.241Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -3073,14 +3073,14 @@
       "startLine": 210,
       "endLine": 213,
       "source": "memory",
-      "snippet": "Reflections: Theme: `1.00` kept surfacing across 52 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
+      "snippet": "Reflections: Theme: `1.00` kept surfacing across 57 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T09:30:02.241Z",
-      "lastRecalledAt": "2026-04-12T09:30:02.241Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -3104,14 +3104,14 @@
       "startLine": 214,
       "endLine": 217,
       "source": "memory",
-      "snippet": "Reflections: Theme: `kept` kept surfacing across 51 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
+      "snippet": "Reflections: Theme: `kept` kept surfacing across 56 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T09:30:02.241Z",
-      "lastRecalledAt": "2026-04-12T09:30:02.241Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -3135,14 +3135,14 @@
       "startLine": 218,
       "endLine": 221,
       "source": "memory",
-      "snippet": "Reflections: Theme: `28-31` kept surfacing across 46 memories.; confidence: 0.96; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "snippet": "Reflections: Theme: `28-31` kept surfacing across 51 memories.; confidence: 0.97; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T09:30:02.241Z",
-      "lastRecalledAt": "2026-04-12T09:30:02.241Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -3151,7 +3151,7 @@
       ],
       "conceptTags": [
         "28-31",
-        "0.96",
+        "0.97",
         "memory/2026-04-10.md",
         "48-51",
         "52-55",
@@ -3166,14 +3166,14 @@
       "startLine": 222,
       "endLine": 225,
       "source": "memory",
-      "snippet": "Reflections: Theme: `32-35` kept surfacing across 46 memories.; confidence: 0.96; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "snippet": "Reflections: Theme: `32-35` kept surfacing across 51 memories.; confidence: 0.97; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T09:30:02.241Z",
-      "lastRecalledAt": "2026-04-12T09:30:02.241Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -3182,7 +3182,7 @@
       ],
       "conceptTags": [
         "32-35",
-        "0.96",
+        "0.97",
         "memory/2026-04-10.md",
         "48-51",
         "52-55",
@@ -3197,14 +3197,14 @@
       "startLine": 226,
       "endLine": 229,
       "source": "memory",
-      "snippet": "Reflections: Theme: `36-39` kept surfacing across 46 memories.; confidence: 0.96; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "snippet": "Reflections: Theme: `36-39` kept surfacing across 51 memories.; confidence: 0.97; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T09:30:02.241Z",
-      "lastRecalledAt": "2026-04-12T09:30:02.241Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -3213,7 +3213,7 @@
       ],
       "conceptTags": [
         "36-39",
-        "0.96",
+        "0.97",
         "memory/2026-04-10.md",
         "48-51",
         "52-55",
@@ -3235,7 +3235,191 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T09:30:02.241Z",
-      "lastRecalledAt": "2026-04-12T09:30:02.241Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-12.md:200:203": {
+      "key": "memory:memory/2026-04-12.md:200:203",
+      "path": "memory/2026-04-12.md",
+      "startLine": 200,
+      "endLine": 203,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `1.00` kept surfacing across 57 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T10:00:02.747Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "28-31",
+        "32-35",
+        "36-39",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:204:207": {
+      "key": "memory:memory/2026-04-12.md:204:207",
+      "path": "memory/2026-04-12.md",
+      "startLine": 204,
+      "endLine": 207,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `kept` kept surfacing across 56 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T10:00:02.747Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "28-31",
+        "32-35",
+        "36-39",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:208:211": {
+      "key": "memory:memory/2026-04-12.md:208:211",
+      "path": "memory/2026-04-12.md",
+      "startLine": 208,
+      "endLine": 211,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `28-31` kept surfacing across 51 memories.; confidence: 0.97; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T10:00:02.747Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "28-31",
+        "0.97",
+        "memory/2026-04-10.md",
+        "48-51",
+        "52-55",
+        "56-59",
+        "reflections",
+        "theme"
+      ]
+    },
+    "memory:memory/2026-04-12.md:212:215": {
+      "key": "memory:memory/2026-04-12.md:212:215",
+      "path": "memory/2026-04-12.md",
+      "startLine": 212,
+      "endLine": 215,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `32-35` kept surfacing across 51 memories.; confidence: 0.97; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T10:00:02.747Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "32-35",
+        "0.97",
+        "memory/2026-04-10.md",
+        "48-51",
+        "52-55",
+        "56-59",
+        "reflections",
+        "theme"
+      ]
+    },
+    "memory:memory/2026-04-12.md:216:219": {
+      "key": "memory:memory/2026-04-12.md:216:219",
+      "path": "memory/2026-04-12.md",
+      "startLine": 216,
+      "endLine": 219,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `36-39` kept surfacing across 51 memories.; confidence: 0.97; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T10:00:02.747Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "36-39",
+        "0.97",
+        "memory/2026-04-10.md",
+        "48-51",
+        "52-55",
+        "56-59",
+        "reflections",
+        "theme"
+      ]
+    },
+    "memory:memory/2026-04-12.md:222:222": {
+      "key": "memory:memory/2026-04-12.md:222:222",
+      "path": "memory/2026-04-12.md",
+      "startLine": 222,
+      "endLine": 222,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T10:00:02.747Z",
+      "lastRecalledAt": "2026-04-12T10:00:02.747Z",
       "queryHashes": [
         "01679c334ef2"
       ],
