@@ -1,0 +1,1 @@
+[nigel-david/sessions/aa769691-fed2-4cbf-875e-8398ec4d2e82.jsonl#L5] User: [cron:e543280b-fded-43ae-a3be-46f37ed68685 wind-down-checkin-10pm-ct] Check in with the boss to see if he has any context to share from the day Current time: Monday, April 13th, 2026 - 10:00 PM (America/Chicago) / 2026-04-14 03:00 UTC Return your summary as plain text;
