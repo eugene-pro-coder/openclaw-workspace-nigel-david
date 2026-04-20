@@ -20,3 +20,18 @@
 - **Summer 2027:** Practicum. (No summer off).
 - **Summer 2028:** Finally, a summer off.
 - **Final Semester:** One last class (historically easier, but still a class).
+
+## Promoted From Short-Term Memory (2026-04-20)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-13.md:198:201 -->
+- - Candidate: Reflections: Theme: `reflections` kept surfacing across 112 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection - confidence: 0.00 - evidence: memory/2026-04-13.md:198-201 - recalls: 0 [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-13.md:3-6]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-13.md:206:209 -->
+- - Candidate: Reflections: Theme: `memory/2026-04-10.md` kept surfacing across 104 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection - confidence: 0.00 - evidence: memory/2026-04-13.md:206-209 - recalls: 0 [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-13.md:8-11]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-13.md:218:221 -->
+- - Candidate: Reflections: Theme: `28-31` kept surfacing across 70 memories.; confidence: 0.99; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection - confidence: 0.00 - evidence: memory/2026-04-13.md:218-221 - recalls: 0 [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-13.md:13-16]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-14.md:178:181 -->
+- - Candidate: Reflections: Theme: `reflections` kept surfacing across 149 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:28-31, memory/2026-04-10.md:32-35, memory/2026-04-10.md:36-39; note: reflection - confidence: 0.00 - evidence: memory/2026-04-14.md:178-181 - recalls: 0 [score=0.838 recalls=0 avg=0.620 source=memory/2026-04-14.md:3-6]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-14.md:186:189 -->
+- - Candidate: Reflections: Theme: `memory/2026-04-10.md` kept surfacing across 141 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection - confidence: 0.00 - evidence: memory/2026-04-14.md:186-189 - recalls: 0 [score=0.838 recalls=0 avg=0.620 source=memory/2026-04-14.md:8-11]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-14.md:198:201 -->
+- - Candidate: Reflections: Theme: `28-31` kept surfacing across 94 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection - confidence: 0.00 - evidence: memory/2026-04-14.md:198-201 - recalls: 0 [score=0.838 recalls=0 avg=0.620 source=memory/2026-04-14.md:13-16]
