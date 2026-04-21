@@ -606,8 +606,9 @@
     "memory:memory/2026-04-14.md:242:245": {
       "key": "memory:memory/2026-04-14.md:242:245",
       "lightHits": 1,
-      "remHits": 0,
-      "lastLightAt": "2026-04-14T15:00:02.638Z"
+      "remHits": 1,
+      "lastLightAt": "2026-04-14T15:00:02.638Z",
+      "lastRemAt": "2026-04-21T15:50:28.016Z"
     },
     "memory:memory/2026-04-14.md:246:249": {
       "key": "memory:memory/2026-04-14.md:246:249",
@@ -744,15 +745,16 @@
     "memory:memory/2026-04-15.md:208:211": {
       "key": "memory:memory/2026-04-15.md:208:211",
       "lightHits": 1,
-      "remHits": 1,
+      "remHits": 2,
       "lastLightAt": "2026-04-15T08:30:02.929Z",
-      "lastRemAt": "2026-04-20T08:02:52.334Z"
+      "lastRemAt": "2026-04-21T15:50:28.016Z"
     },
     "memory:memory/2026-04-15.md:212:215": {
       "key": "memory:memory/2026-04-15.md:212:215",
       "lightHits": 1,
-      "remHits": 0,
-      "lastLightAt": "2026-04-15T08:30:02.929Z"
+      "remHits": 1,
+      "lastLightAt": "2026-04-15T08:30:02.929Z",
+      "lastRemAt": "2026-04-21T15:50:28.016Z"
     },
     "memory:memory/2026-04-15.md:216:219": {
       "key": "memory:memory/2026-04-15.md:216:219",
