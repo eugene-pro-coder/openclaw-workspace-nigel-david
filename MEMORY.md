@@ -46,3 +46,8 @@
 - - Candidate: Reflections: Theme: `28-31` kept surfacing across 115 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection - confidence: 0.62 - evidence: memory/2026-04-15.md:163-166 - recalls: 0 [score=0.849 recalls=0 avg=0.620 source=memory/2026-04-16.md:3-6]
 <!-- openclaw-memory-promotion:memory:memory/2026-04-14.md:202:205 -->
 - - Candidate: Reflections: Theme: `32-35` kept surfacing across 94 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection - confidence: 0.00 - evidence: memory/2026-04-14.md:202-205 - recalls: 0 [score=0.807 recalls=0 avg=0.620 source=memory/2026-04-14.md:18-21]
+
+## Promoted From Short-Term Memory (2026-04-22)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:167:170 -->
+- - Candidate: Reflections: Theme: `32-35` kept surfacing across 115 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:48-51, memory/2026-04-10.md:52-55, memory/2026-04-10.md:56-59; note: reflection - confidence: 0.62 - evidence: memory/2026-04-15.md:167-170 - recalls: 0 [score=0.856 recalls=0 avg=0.620 source=memory/2026-04-16.md:8-11]
