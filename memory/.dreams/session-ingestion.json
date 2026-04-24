@@ -15,13 +15,6 @@
       "lineCount": 15,
       "lastContentLine": 15
     },
-    "nigel-david:sessions/0f7c7b1e-42b7-4b39-b68f-fcc482ac200d.jsonl.deleted.2026-04-21T15-51-43.433Z": {
-      "mtimeMs": 1776654026089,
-      "size": 6312,
-      "contentHash": "f19bdce3bb1dc301360ee9dedb396067226475a27464554826b33e9a0296ef54",
-      "lineCount": 2,
-      "lastContentLine": 2
-    },
     "nigel-david:sessions/359146ca-e948-4a71-94c6-5f03e8c1c0c6.jsonl.reset.2026-03-31T04-21-14.984Z": {
       "mtimeMs": 1774903493449,
       "size": 6366,
@@ -64,7 +57,7 @@
       "lineCount": 24,
       "lastContentLine": 24
     },
-    "nigel-david:sessions/818e649c-8135-4389-be5d-467b515d0d4f.jsonl": {
+    "nigel-david:sessions/818e649c-8135-4389-be5d-467b515d0d4f.jsonl.deleted.2026-04-24T04-58-30.932Z": {
       "mtimeMs": 1776826832477,
       "size": 5561,
       "contentHash": "f866decdcda2efcd9efa369aea628c2f5e8c446b28261e0fc1adb6c2dbb7c798",
@@ -77,6 +70,13 @@
       "contentHash": "fc8f3ec8c3d7f5afcf23af4046676b4b076369734a985ab0d1ea9a5ce6319daf",
       "lineCount": 23,
       "lastContentLine": 23
+    },
+    "nigel-david:sessions/8d63795c-f91b-4c05-9b78-a21fcfdfd88a.jsonl": {
+      "mtimeMs": 1777006710459,
+      "size": 4540,
+      "contentHash": "b861134a7b6c61065600bb219155b4e905b698dbfa6e949600a77ae6e0b04a30",
+      "lineCount": 2,
+      "lastContentLine": 2
     },
     "nigel-david:sessions/9add71bb-3916-42c2-83ef-e4b4a812460e.jsonl.reset.2026-03-29T08-46-34.641Z": {
       "mtimeMs": 1774773157739,
@@ -161,13 +161,6 @@
       "contentHash": "301949fc5c2ad0634546bfca5c194d0eb82b4a69385b0130ea4ddb26520d16a1",
       "lineCount": 6,
       "lastContentLine": 6
-    },
-    "nigel-david:sessions/f3aa894b-4300-4538-a10b-e85d3c8bc179.jsonl": {
-      "mtimeMs": 1776786275675,
-      "size": 3086,
-      "contentHash": "350378c891ed4d97781ba65215233fc31df5b16a1182187e85b95973f9df5f19",
-      "lineCount": 2,
-      "lastContentLine": 2
     }
   },
   "seenMessages": {
@@ -225,6 +218,10 @@
     "nigel-david:818e649c-8135-4389-be5d-467b515d0d4f": [
       "02cb768b7b8c6fc4ac2874ee8a5ff00ca0d9cd80",
       "f05a09193f84544b56e5d9b3dee8b34f104a40bc"
+    ],
+    "nigel-david:8d63795c-f91b-4c05-9b78-a21fcfdfd88a": [
+      "7bc3eb89644eb1063a9b3d453bce845df18fc944",
+      "f3f1a64dcd143cd4e5f49db378f05edb68c15f0e"
     ]
   }
 }
