@@ -29,13 +29,6 @@
       "lineCount": 43,
       "lastContentLine": 43
     },
-    "nigel-david:sessions/3d2a4bd0-da54-41a6-916a-af7a306fe479.jsonl.deleted.2026-04-26T03-04-44.032Z": {
-      "mtimeMs": 1777086018041,
-      "size": 4664,
-      "contentHash": "b89088c82d726da1dc41b47402ee19b742c58f022924bae668d0df28e2c09386",
-      "lineCount": 2,
-      "lastContentLine": 2
-    },
     "nigel-david:sessions/4058071b-fcf8-4a83-9ee4-98eafa22d466.jsonl": {
       "mtimeMs": 1774801738426,
       "size": 209151,
@@ -49,13 +42,6 @@
       "contentHash": "fba01165a1bd9a16c744e07894def9cf9fa0d2d0efee23130842760702396c72",
       "lineCount": 10,
       "lastContentLine": 10
-    },
-    "nigel-david:sessions/48a62e51-4cf3-40a7-a6a0-580fee37f96c.jsonl.deleted.2026-04-27T03-03-47.718Z": {
-      "mtimeMs": 1777172432374,
-      "size": 4601,
-      "contentHash": "f9944f03eaf6f2ab9ff818493e874870684a9bb9a542bf2b331233f94d63587f",
-      "lineCount": 1,
-      "lastContentLine": 1
     },
     "nigel-david:sessions/564c35c4-f562-4810-ba68-38bb1c5526ea.jsonl.reset.2026-03-29T07-40-31.040Z": {
       "mtimeMs": 1774769678651,
@@ -71,7 +57,7 @@
       "lineCount": 24,
       "lastContentLine": 24
     },
-    "nigel-david:sessions/84085d0c-9c55-4648-9e63-46fa84b2e5f0.jsonl": {
+    "nigel-david:sessions/84085d0c-9c55-4648-9e63-46fa84b2e5f0.jsonl.deleted.2026-04-28T03-04-33.087Z": {
       "mtimeMs": 1777258840553,
       "size": 4599,
       "contentHash": "3d8f18353d119a7b5b64300249b1f00a074258f4fe5b9b0a67787d3095921fb7",
@@ -98,6 +84,13 @@
       "contentHash": "0d25cbb27333ad78dc0e50499d78e665e6b77ac3b6e880c8f6ddef7da8d85e51",
       "lineCount": 87,
       "lastContentLine": 87
+    },
+    "nigel-david:sessions/ab67eedd-1597-40e7-9a97-3750f3af1e74.jsonl": {
+      "mtimeMs": 1777345232064,
+      "size": 5996,
+      "contentHash": "52e5740f5ad776c67e2913d23debaf307458e835aecbd484432a4326e6a0c6ba",
+      "lineCount": 2,
+      "lastContentLine": 2
     },
     "nigel-david:sessions/b1f0855f-ba00-4398-9010-c748dfb818f8.jsonl.reset.2026-03-29T07-09-59.764Z": {
       "mtimeMs": 1774768174006,
@@ -239,6 +232,10 @@
     ],
     "nigel-david:84085d0c-9c55-4648-9e63-46fa84b2e5f0": [
       "dea723fc7d711fdb7ca615a17b9332b22b6eacbe"
+    ],
+    "nigel-david:ab67eedd-1597-40e7-9a97-3750f3af1e74": [
+      "9f3f88c3c79bbf76d849f3957222b66899ab2b35",
+      "8c22b848ddface3e00470d03041c735ccd5f8c66"
     ]
   }
 }
