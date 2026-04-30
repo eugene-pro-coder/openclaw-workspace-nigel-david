@@ -333,3 +333,7 @@
 {"type":"memory.dream.completed","timestamp":"2026-04-29T08:05:35.382Z","phase":"light","reportPath":"/home/open/.openclaw/workspace-nigel-david/memory/dreaming/light/2026-04-29.md","lineCount":25,"storageMode":"separate"}
 {"type":"memory.dream.completed","timestamp":"2026-04-29T08:05:35.382Z","phase":"rem","reportPath":"/home/open/.openclaw/workspace-nigel-david/memory/dreaming/rem/2026-04-29.md","lineCount":42,"storageMode":"separate"}
 {"type":"memory.dream.completed","timestamp":"2026-04-29T08:05:35.382Z","phase":"deep","reportPath":"/home/open/.openclaw/workspace-nigel-david/memory/dreaming/deep/2026-04-29.md","lineCount":2,"storageMode":"separate"}
+{"type":"memory.recall.recorded","timestamp":"2026-04-30T08:01:21.560Z","query":"__dreaming_sessions__:2026-04-29","resultCount":1,"results":[{"path":"memory/.dreams/session-corpus/2026-04-29.txt","startLine":1,"endLine":1,"score":0.58}]}
+{"type":"memory.dream.completed","timestamp":"2026-04-30T08:01:21.560Z","phase":"light","reportPath":"/home/open/.openclaw/workspace-nigel-david/memory/dreaming/light/2026-04-30.md","lineCount":25,"storageMode":"separate"}
+{"type":"memory.dream.completed","timestamp":"2026-04-30T08:01:21.560Z","phase":"rem","reportPath":"/home/open/.openclaw/workspace-nigel-david/memory/dreaming/rem/2026-04-30.md","lineCount":34,"storageMode":"separate"}
+{"type":"memory.dream.completed","timestamp":"2026-04-30T08:01:21.560Z","phase":"deep","reportPath":"/home/open/.openclaw/workspace-nigel-david/memory/dreaming/deep/2026-04-30.md","lineCount":3,"storageMode":"separate"}
