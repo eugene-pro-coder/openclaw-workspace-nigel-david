@@ -15,13 +15,6 @@
       "lineCount": 0,
       "lastContentLine": 0
     },
-    "nigel-david:sessions/35aa10ca-dc29-41ef-9a6f-c2961d130172.jsonl.reset.2026-04-02T00-24-04.684Z": {
-      "mtimeMs": 1775024381641,
-      "size": 52252,
-      "contentHash": "5ae0a4b8a1caa22f8ea0564c6c7d515d0bb2cc7f4925ca091520bb6e0f117fcd",
-      "lineCount": 43,
-      "lastContentLine": 43
-    },
     "nigel-david:sessions/3be0b394-e05d-4576-9639-a6e0f809cd8e.jsonl.deleted.2026-04-30T03-01-26.131Z": {
       "mtimeMs": 1777431640703,
       "size": 2838,
@@ -36,6 +29,13 @@
       "lineCount": 0,
       "lastContentLine": 0
     },
+    "nigel-david:sessions/983874e6-e68f-4b24-a906-d6932b5c41a6.jsonl": {
+      "mtimeMs": 1777691042666,
+      "size": 4300,
+      "contentHash": "7dd30dfa971107bead765ec8f49f42442ce2d12e8178e5da24029faef555d201",
+      "lineCount": 1,
+      "lastContentLine": 1
+    },
     "nigel-david:sessions/ab67eedd-1597-40e7-9a97-3750f3af1e74.jsonl.deleted.2026-04-29T03-02-41.571Z": {
       "mtimeMs": 1777345232064,
       "size": 5996,
@@ -49,13 +49,6 @@
       "contentHash": "1e21210781e9ba3897a7410bb5543b28c77e4f392c251848bc0dcd49a6e03ba9",
       "lineCount": 1,
       "lastContentLine": 1
-    },
-    "nigel-david:sessions/c84d23cb-4c24-4499-a877-24eaab1a1f91.jsonl.reset.2026-04-02T04-27-36.222Z": {
-      "mtimeMs": 1775103801735,
-      "size": 41589,
-      "contentHash": "33bdae6153b6e15d63a1fa27ffbce405758c00c673b276a5c4ef53583b6b62dd",
-      "lineCount": 15,
-      "lastContentLine": 15
     },
     "nigel-david:sessions/ee3a6441-77c8-46b8-af6b-ca3d45671806.jsonl.reset.2026-04-02T22-28-47.059Z": {
       "mtimeMs": 1775106601321,
@@ -146,6 +139,8 @@
     "nigel-david:b1a26944-1264-4561-8748-76aff3ca0977": [
       "6cabf7ed9f06d03a264fd88ad5a0c04d6ed7222c"
     ],
-    "nigel-david:20f1e146-f7d1-491f-8903-2f2fbdab8e34": []
+    "nigel-david:983874e6-e68f-4b24-a906-d6932b5c41a6": [
+      "ea5d018a8637443a2d4de0a5421c92ff221cda35"
+    ]
   }
 }

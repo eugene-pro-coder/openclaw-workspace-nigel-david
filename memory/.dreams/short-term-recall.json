@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T08:01:22.163Z",
+  "updatedAt": "2026-05-02T08:01:37.906Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -8953,6 +8953,37 @@
         "see",
         "there's",
         "any"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-01.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-01.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-01.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: <think>Ten o'clock on a Friday. The day's done, Boss. If you've got anything from the last few hours you need to get off your chest before calling it, I'm here.</think> <final>Ten o'clock on a Friday. The day's done, Boss. If you've got anything from the last few hours",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-02T08:01:37.906Z",
+      "lastRecalledAt": "2026-05-02T08:01:37.906Z",
+      "queryHashes": [
+        "23c989536796"
+      ],
+      "recallDays": [
+        "2026-05-02"
+      ],
+      "conceptTags": [
+        "think",
+        "ten",
+        "o'clock",
+        "friday",
+        "day's",
+        "done",
+        "boss",
+        "you've"
       ]
     }
   }

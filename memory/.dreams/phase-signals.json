@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T08:01:36.817Z",
+  "updatedAt": "2026-05-02T08:01:37.906Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -1010,14 +1010,16 @@
     "memory:memory/2026-04-18.md:214:217": {
       "key": "memory:memory/2026-04-18.md:214:217",
       "lightHits": 10,
-      "remHits": 0,
-      "lastLightAt": "2026-04-27T08:06:37.224Z"
+      "remHits": 1,
+      "lastLightAt": "2026-04-27T08:06:37.224Z",
+      "lastRemAt": "2026-05-02T08:01:37.906Z"
     },
     "memory:memory/2026-04-18.md:218:221": {
       "key": "memory:memory/2026-04-18.md:218:221",
       "lightHits": 10,
-      "remHits": 0,
-      "lastLightAt": "2026-04-27T08:06:37.224Z"
+      "remHits": 1,
+      "lastLightAt": "2026-04-27T08:06:37.224Z",
+      "lastRemAt": "2026-05-02T08:01:37.906Z"
     },
     "memory:memory/2026-04-18.md:222:225": {
       "key": "memory:memory/2026-04-18.md:222:225",
@@ -1040,9 +1042,9 @@
     "memory:memory/2026-04-18.md:240:242": {
       "key": "memory:memory/2026-04-18.md:240:242",
       "lightHits": 8,
-      "remHits": 8,
+      "remHits": 9,
       "lastLightAt": "2026-04-27T08:06:37.224Z",
-      "lastRemAt": "2026-05-01T08:01:36.817Z"
+      "lastRemAt": "2026-05-02T08:01:37.906Z"
     },
     "memory:memory/.dreams/session-corpus/2026-04-18.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:1:1",
@@ -1166,9 +1168,15 @@
     },
     "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1",
-      "lightHits": 2,
+      "lightHits": 3,
       "remHits": 0,
-      "lastLightAt": "2026-05-01T08:01:36.817Z"
+      "lastLightAt": "2026-05-02T08:01:37.906Z"
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-01.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-01.txt:1:1",
+      "lightHits": 1,
+      "remHits": 0,
+      "lastLightAt": "2026-05-02T08:01:37.906Z"
     }
   }
 }
