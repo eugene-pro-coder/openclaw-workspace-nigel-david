@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T08:01:37.906Z",
+  "updatedAt": "2026-05-03T08:00:43.518Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -8984,6 +8984,37 @@
         "done",
         "boss",
         "you've"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-02.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-02.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-02.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: <final>10 PM, Boss. That time of night again. How'd the day shake out—messy, quiet, or somewhere in between? Anything on your mind before you call it?</final>",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-03T08:00:43.518Z",
+      "lastRecalledAt": "2026-05-03T08:00:43.518Z",
+      "queryHashes": [
+        "815cc1934125"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "final",
+        "boss",
+        "time",
+        "night",
+        "how'd",
+        "day",
+        "shake",
+        "out"
       ]
     }
   }
