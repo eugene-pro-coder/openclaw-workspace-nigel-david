@@ -36,6 +36,13 @@
       "lineCount": 1,
       "lastContentLine": 1
     },
+    "nigel-david:sessions/a4079e05-f0d1-4bcc-843f-89974fe8a0dd.jsonl": {
+      "mtimeMs": 1777863731604,
+      "size": 2664,
+      "contentHash": "43d0e5207cba61432a50f2c73330acf24a8d0d383cf190de3e740e742a2285fb",
+      "lineCount": 1,
+      "lastContentLine": 1
+    },
     "nigel-david:sessions/ab67eedd-1597-40e7-9a97-3750f3af1e74.jsonl.deleted.2026-04-29T03-02-41.571Z": {
       "mtimeMs": 1777345232064,
       "size": 5996,
@@ -142,9 +149,11 @@
     "nigel-david:983874e6-e68f-4b24-a906-d6932b5c41a6": [
       "ea5d018a8637443a2d4de0a5421c92ff221cda35"
     ],
-    "nigel-david:048f2d81-19eb-4d8a-98c0-ef82c242ca2b": [],
     "nigel-david:cbe8440b-f756-45a1-8091-55a58c5aed35": [
       "b24b76fc1d1d7c858da322da0071d91a2756e2d4"
+    ],
+    "nigel-david:a4079e05-f0d1-4bcc-843f-89974fe8a0dd": [
+      "c3c3145b6e091a256d1ea2c3d3c49f02c247c5f3"
     ]
   }
 }

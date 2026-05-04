@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-03T08:00:43.518Z",
+  "updatedAt": "2026-05-04T08:00:33.452Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -9015,6 +9015,37 @@
         "day",
         "shake",
         "out"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-03.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-03.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-03.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: <final>10:00 PM on a Sunday. The weekend's practically a ghost. You holding up alright, Boss, or did the world throw something particularly weird at you today that needs a post-mortem? The bar's open if you've got any war stories from the day.</final>",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T08:00:33.452Z",
+      "lastRecalledAt": "2026-05-04T08:00:33.452Z",
+      "queryHashes": [
+        "b2bd51325196"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "post-mortem",
+        "final",
+        "sunday",
+        "weekend's",
+        "practically",
+        "ghost",
+        "holding",
+        "alright"
       ]
     }
   }
