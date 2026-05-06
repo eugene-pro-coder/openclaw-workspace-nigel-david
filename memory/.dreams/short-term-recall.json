@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T08:00:33.452Z",
+  "updatedAt": "2026-05-06T08:00:30.776Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -9046,6 +9046,68 @@
         "ghost",
         "holding",
         "alright"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-05.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-05.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-05.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: <think>The check-in has been sent. I'll wrap this up.</think> <final>10 PM check-in sent. Checked MEMORY.md for context on the Boss's academic burnout and the May semester-end timeline.</final>",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-06T08:00:30.776Z",
+      "lastRecalledAt": "2026-05-06T08:00:30.776Z",
+      "queryHashes": [
+        "8437f7355b64"
+      ],
+      "recallDays": [
+        "2026-05-06"
+      ],
+      "conceptTags": [
+        "check-in",
+        "memory.md",
+        "semester-end",
+        "think",
+        "check",
+        "has",
+        "been",
+        "sent"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-05.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-05.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-05.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 10 PM on a Tuesday in May. If the academic machine hasn't ground you down for the semester yet, I assume you're either deep in the wreckage of finals or staring at a wall in quiet protest. Any context from today worth putting on the record, Boss? Or are we just letting",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-06T08:00:30.776Z",
+      "lastRecalledAt": "2026-05-06T08:00:30.776Z",
+      "queryHashes": [
+        "8437f7355b64"
+      ],
+      "recallDays": [
+        "2026-05-06"
+      ],
+      "conceptTags": [
+        "tuesday",
+        "may",
+        "academic",
+        "machine",
+        "hasn't",
+        "ground",
+        "down",
+        "semester"
       ]
     }
   }
