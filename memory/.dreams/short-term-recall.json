@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T08:00:30.776Z",
+  "updatedAt": "2026-05-07T08:00:30.992Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -9108,6 +9108,37 @@
         "ground",
         "down",
         "semester"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: <think>It's 10 PM on Wednesday, May 6, 2026. This is the wind-down check-in for Gigglebytes (the Boss). Based on MEMORY.md, the Boss is in the middle of a brutal Spring 2026 semester in an MS in Analytics program, while working full-time. He's likely burnt out and near",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T08:00:30.992Z",
+      "lastRecalledAt": "2026-05-07T08:00:30.992Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "wind-down",
+        "check-in",
+        "memory.md",
+        "full-time",
+        "think",
+        "it's",
+        "wednesday",
+        "may"
       ]
     }
   }
