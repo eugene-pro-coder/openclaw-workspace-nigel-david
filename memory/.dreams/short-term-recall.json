@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T08:00:30.992Z",
+  "updatedAt": "2026-05-08T08:01:07.841Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -9139,6 +9139,37 @@
         "it's",
         "wednesday",
         "may"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: It's 10:00. The day is technically over, but I know how the Spring semester likes to bleed into the night. Given the current trajectory, I'm assuming you're either buried in a final project or staring at a monitor wondering when the burnout officially transitions into",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T08:01:07.841Z",
+      "lastRecalledAt": "2026-05-08T08:01:07.841Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "it's",
+        "day",
+        "technically",
+        "but",
+        "know",
+        "how",
+        "spring",
+        "semester"
       ]
     }
   }
