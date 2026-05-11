@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T08:00:57.104Z",
+  "updatedAt": "2026-05-11T23:16:22.969Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -9232,6 +9232,37 @@
         "still",
         "redlining",
         "end"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: <think>The day's wrapping up, and the Boss might need a moment to vent or just settle in. Keep it low-key. No lecture, no pressure—just an invitation to talk shop.</think> <final><message action=\"send\" message=\"Looks like the dust is finally settling on the day, Boss.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T23:16:22.969Z",
+      "lastRecalledAt": "2026-05-11T23:16:22.969Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "low-key",
+        "think",
+        "day's",
+        "wrapping",
+        "boss",
+        "might",
+        "need",
+        "moment"
       ]
     }
   }
