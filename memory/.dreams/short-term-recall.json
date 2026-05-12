@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T23:16:22.969Z",
+  "updatedAt": "2026-05-12T08:00:20.859Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -9263,6 +9263,37 @@
         "might",
         "need",
         "moment"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: <final>It’s 10:00 PM, Boss. If the day left you with any headaches or highlights worth recording before you pack it in, I'm here. Otherwise, let's just call it a night.</final>",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T08:00:20.859Z",
+      "lastRecalledAt": "2026-05-12T08:00:20.859Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "final",
+        "it’s",
+        "boss",
+        "day",
+        "left",
+        "any",
+        "headaches",
+        "highlights"
       ]
     }
   }
